@@ -1,4 +1,9 @@
-### Hi there 👋
+
+### Hi 👋
+
+![Group 1](https://user-images.githubusercontent.com/14286467/125537897-9a9ee607-9b48-4c9c-95aa-25dc7bc5a954.jpg)!
+
+
 
 <!--
 **nohorapatriciam/nohorapatriciam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
