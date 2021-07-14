@@ -22,10 +22,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Social 
+
+You find me on the internet, over here 👇
 
 Linkedin:
 https://www.linkedin.com/in/nohorapatriciam/
 
 ## Proyects:
+
+In each repository, you will see the About section, and there is the link so you can review it 👀
+
+![Captura de pantalla 2021-07-13 a la(s) 20 08 34](https://user-images.githubusercontent.com/14286467/125544976-c6581db6-bfd5-4d3e-81e5-fa4b60fb882c.png)
+
 
 
