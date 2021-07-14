@@ -36,7 +36,9 @@ In each repository, you will see the About section, and there is the link so you
 ![Captura de pantalla 2021-07-13 a la(s) 20 08 34](https://user-images.githubusercontent.com/14286467/125544976-c6581db6-bfd5-4d3e-81e5-fa4b60fb882c.png)
 ## Stats
 
-https://github-readme-stats.vercel.app/api?username=nohorapatriciam
+[![nohorapatriciam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohorapatriciam)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
