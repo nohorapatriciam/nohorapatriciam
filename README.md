@@ -6,7 +6,7 @@ Thanks for being here, here I will quickly comment on something about me 🌚
 
 ## About me:
 
-I love learning and teaching 😍, my goal is to connect veterinary medicine with technology 🤖, if you want to communicate with me 👉 nohorapatriciam@icloud.com
+I love learning and teaching 😍, my goal is to connect veterinary medicine with technology 🤖, if you want to communicate with me 👉 info@nohoramoreno.com
 
 <!--
 **nohorapatriciam/nohorapatriciam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
